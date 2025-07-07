@@ -1,20 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=THE%20DEVELOPER%20ARENA&message=INTERNSHIP%20%7C%20MONTH%201&color=FFFFFF&labelColor=222222&style=for-the-badge&logo=github&logoColor=white" width="1400" />
+  <img src="https://img.shields.io/static/v1?label=THE%20DEVELOPER%20ARENA&message=INTERNSHIP%20%7C%20MONTH%201%20%26%202&color=FFFFFF&labelColor=222222&style=for-the-badge&logo=github&logoColor=white" width="1400" />
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=850&lines=Python%20%7C%20Data%20Cleaning%20%7C%20Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=850&lines=Python%20%7C%20Data%20Cleaning%20%7C%20Visualization%20%7C%20EDA%20%7C%20ML%20Basics" alt="Typing SVG" />
 </p>
-
-
 
 ## 📌 About
 
-Welcome to **Month 1** of my **6-Month Data Science Internship** at [**The Developer Arena**](https://thedeveloperarena.tech/).  
-This repository captures all the weekly tasks, projects, and learnings done during this phase.
+Welcome to **Month 1 & 2** of my **6-Month Data Science Internship** at [**The Developer Arena**](https://thedeveloperarena.tech/).  
+This repository captures all the weekly tasks, projects, and learnings done during these phases.
 
-> 🚀 A journey into the world of Python programming, data wrangling, visualization, and real-world problem solving.
+> 🚀 A journey into the world of Python programming, data wrangling, visualization, statistical analysis, and machine learning foundations.
 
 ---
 
@@ -52,6 +49,42 @@ This repository captures all the weekly tasks, projects, and learnings done duri
 
 ---
 
+### 🔍 Week 5: Exploratory Data Analysis (EDA)
+- ✅ **Descriptive Statistics, Outlier Detection**
+- ✅ **Data Distribution Visualization**
+- ✅ **Correlation Analysis & Missing Value Handling**
+- ✅ **Client Task: Titanic Dataset EDA**
+- 📁 [`Week5_EDA.ipynb`](./Week5_EDA.ipynb)
+
+---
+
+### 🧪 Week 6: Probability & Statistical Testing
+- ✅ **Probability Distributions (Normal, Poisson)**
+- ✅ **Hypothesis Testing: t-test, Chi-square**
+- ✅ **Confidence Intervals & Statistical Insights**
+- ✅ **Client Task: Business Strategy Comparison**
+- 📁 [`Week6_Statistics.ipynb`](./Week6_Statistics.ipynb)
+
+---
+
+### 🤖 Week 7: Introduction to Machine Learning
+- ✅ **Supervised vs. Unsupervised Learning**
+- ✅ **Linear Regression with Scikit-learn**
+- ✅ **Regression, Classification, Clustering Basics**
+- ✅ **Client Task: Custom Price Prediction Model**
+- 📁 [`Week7_MachineLearning.ipynb`](./Week7_MachineLearning.ipynb)
+
+---
+
+### 🎯 Week 8: Model Evaluation & Hyperparameter Tuning
+- ✅ **Model Metrics: Accuracy, Precision, Recall, F1-score**
+- ✅ **Confusion Matrix Visualization**
+- ✅ **Hyperparameter Tuning using GridSearchCV**
+- ✅ **Client Task: Iris Dataset Model Optimization**
+- 📁 [`Week8_ModelTuning.ipynb`](./Week8_ModelTuning.ipynb)
+
+---
+
 ## 📚 Skills & Tools Used
 
 | Skill / Concept       | Description                            |
@@ -60,6 +93,8 @@ This repository captures all the weekly tasks, projects, and learnings done duri
 | 🔢 NumPy              | Numerical computing & matrix ops       |
 | 🐼 Pandas             | Data cleaning & manipulation           |
 | 📊 Matplotlib & Seaborn | Visualization & pattern analysis       |
+| 🧪 SciPy & Statsmodels | Statistical testing                    |
+| 🤖 Scikit-learn        | Machine learning models & evaluation   |
 | 📂 Jupyter Notebooks   | Hands-on task execution                |
 | 🧠 Logical Thinking     | Algorithmic approach to problem solving|
 
@@ -73,27 +108,29 @@ TheDeveloperArenaInternship/
 ├── Week2.ipynb
 ├── Week3.ipynb
 ├── Week4.ipynb
+├── Week5_EDA.ipynb
+├── Week6_Statistics.ipynb
+├── Week7_MachineLearning.ipynb
+├── Week8_ModelTuning.ipynb
 └── README.md
-```
 🔭 What’s Next?
-Month	Focus Area	Status
-1	Python + Data Cleaning	✅ Done
-2	Exploratory Data Analysis + SQL	🔄 Ongoing
-3	Power BI + Data Visualization	⏳ Upcoming
-4	Machine Learning (Scikit-learn)	⏳ Upcoming
-5	Deep Learning (CNNs, Autoencoders)	⏳ Upcoming
-6	Final Capstone + Deployment	⏳ Upcoming
+Month Focus Area Status
+1 Python + Data Cleaning ✅ Done
+2 Exploratory Data Analysis + ML Basics ✅ Done
+3 Power BI + SQL + Advanced Analytics 🔄 Ongoing
+4 Machine Learning (Scikit-learn) ⏳ Upcoming
+5 Deep Learning (CNNs, Autoencoders) ⏳ Upcoming
+6 Final Capstone + Deployment ⏳ Upcoming
 
 🙋‍♂️ About Me
-👨‍💻 Name	Nihal Mishra
+👨‍💻 Name: Nihal Mishra
 
-🎓 Education	B.Tech in CSE (AI & Data Science), 2nd Year
+🎓 Education: B.Tech in CSE (AI & Data Science), 2nd Year
 
-🧠 Goal	Aspiring Data Scientist, Problem Solver
+🧠 Goal: Aspiring Data Scientist, Problem Solver
 
-🌐 LinkedIn	www.linkedin.com/in/nihalmishraofficial
+🌐 LinkedIn: www.linkedin.com/in/nihalmishraofficial
 
-📫 Contact	nihalmishraaofficial@gmail.com
-
+📫 Contact: nihalmishraaofficial@gmail.com
 
 ✨ This is just the beginning. Follow this repository to stay updated with every new month of my Data Science internship journey! 🚀
